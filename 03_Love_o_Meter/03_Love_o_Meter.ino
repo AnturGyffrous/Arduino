@@ -46,5 +46,5 @@ void loop() {
     digitalWrite(4, HIGH);
   }
 
-  delay(1);
+  delay(10);
 }
