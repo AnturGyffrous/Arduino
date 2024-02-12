@@ -1,5 +1,5 @@
-const byte greenLedPin = 9;
-const byte redLedPin = 11;
+const byte redLedPin = 9;
+const byte greenLedPin = 11;
 const byte blueLedPin = 10;
 
 const byte redSesnsorPin = A0;
